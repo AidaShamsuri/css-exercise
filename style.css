@@ -1,0 +1,21 @@
+body
+	{
+		background-color:#F1948A;
+
+	}
+
+
+h1	
+	{
+		text-align: center;
+		font-family: jokerman
+	}
+
+
+p	
+	{
+		text-align: center;
+		font-family: georgia;
+		background-color :white;
+		margin: 2 : 3 : 4 : 3;
+	}
